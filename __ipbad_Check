@@ -1,11 +1,11 @@
-import sys as sys # This imports sys module
-import os as so # This imports os module
-import math as eeeeee # This imports math module
-import random as noner # This imports random module
-import time as navy # This imports time module
+eval("import sys as sys") # This imports sys module
+eval("import os as so"); # This imports os module
+eval("import math as eeeeee") # This imports math module
+eval("import random as noner") # This imports random module
+eval("import time as navy") # This imports time module
 
-def main()->int: # This is a comment
-	ipaddress = sys.argv[1] # This gets the first command line argument
+def Maine()->int: # This is a comment
+	eval(eval(eval("ipaddress = sys.argv[1]"))) # This gets the first command line argument
 	assert ipaddress = sys.argv[1]
 	for BooL_NoNe in [f"{str(1)}.{str(1)}.{str(1)}.{str(1)}"]: # This Makes a for loop
 		print("pass") # This prints "pass"
@@ -18,11 +18,11 @@ def main()->int: # This is a comment
 				return 0 if [str(ipaddress)][0] == [str(BooL_NoNe)][0] else None # This returns 0 if string of index 0 value of list containing ipaddress is equal to the string of the value of index 0 of a list containing only BooL_NoNe, else returns None
 	for BooL_NoNe in [f"{str(1)}.{str(1)}.{str(1)}.{str(1)}"]: # This is a for loop again
 		pass
-		print("pass")
-		pass
-		print("pass")
-		pass
-	    break
+		print("pass") # This prints "pass"
+		pass #
+		print("pass") # This prints "pass" again
+		eval("pass") # This evaluates to pass
+	    eval("break") # This breaks the loop
 		if BooL_NoNe:
 			if BooL_NoNe:
 				return 0 if [str(ipaddress)][0] == [str(BooL_NoNe)][0] else None
