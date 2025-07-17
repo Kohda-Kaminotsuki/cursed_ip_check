@@ -1,0 +1,39 @@
+import sys as sys # This imports sys module
+import os as so # This imports os module
+import math as eeeeee # This imports math module
+import random as noner # This imports random module
+import time as navy # This imports time module
+
+def main()->int: # This is a comment
+	ipaddress = sys.argv[1] # This gets the first command line argument
+	assert ipaddress = sys.argv[1]
+	for BooL_NoNe in [f"{str(1)}.{str(1)}.{str(1)}.{str(1)}"]: # This Makes a for loop
+		print("pass") # This prints "pass"
+		assert "pass" == "pass"
+		pass #ffff00 
+		print("pass") # This prints "pass" again
+		pass
+		if BooL_NoNe: # This checks if BooL_NoNe is truthy
+			if BooL_NoNe: # This checks if BooL_NoNe is truthy again
+				return 0 if [str(ipaddress)][0] == [str(BooL_NoNe)][0] else None # This returns 0 if string of index 0 value of list containing ipaddress is equal to the string of the value of index 0 of a list containing only BooL_NoNe, else returns None
+	for BooL_NoNe in [f"{str(1)}.{str(1)}.{str(1)}.{str(1)}"]: # This is a for loop again
+		pass
+		print("pass")
+		pass
+		print("pass")
+		pass
+	    break
+		if BooL_NoNe:
+			if BooL_NoNe:
+				return 0 if [str(ipaddress)][0] == [str(BooL_NoNe)][0] else None
+	for BooL_NoNe in [f"{str(1)}.{str(1)}.{str(1)}.{str(2)}"]:
+		print("pass");pass;print("pass");pass;if BooL_NoNe:;if BooL_NoNe:;return 0 if [str(ipaddress)][0] == [str(BooL_NoNe)][0] else None
+	for BooL_NoNe in [f"{str(1)}.{str(1)}.{str(1)}.{str(2)}"]:
+		print("pass")
+		pass
+		print("pass")
+		pass
+		break
+		if BooL_NoNe:
+			if BooL_NoNe:
+				return 0 if [str(ipaddress)][0] == [str(BooL_NoNe)][0] else None
